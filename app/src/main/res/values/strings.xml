@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="edit_task_name">Enter task name</string>
+    <string name="button_add">Add Task</string>
+    <string name="form_header">My Todos</string>
+    <string name="button_done">Done</string>
+    <string name="menu_about">About</string>
+    <string name="about_title">About</string>
+    <string name="about_message">Todo App\nDesigned by Richard Marks\n&lt;ccpsceo@gmail.com&gt;\nCopyright 2017, Richard Marks\nMIT Licensed</string>
+    <string name="ok">Ok</string>
+</resources>
